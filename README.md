@@ -12,8 +12,9 @@ Este proyecto es un analizador desarrollado con ANTLR4 y Node.js para la materia
 3) El resultado mostrará la Tabla de Lexemas, el Árbol Sintáctico y las validaciones del Análisis Semántico.
 
 Se incluyeron ejemplos para verificar si el analizador es capas de detectar errores:
-correcto1.txt / correcto2.txt: Casos con sintaxis y semántica válida.
-incorrecto1.txt / incorrecto2.txt: Casos que disparan errores de semántica.
+   correcto1.txt / correcto2.txt: Casos con sintaxis y semántica válida.
+   incorrecto1.txt / incorrecto2.txt: Casos que disparan errores de semántica.
+Estos ejemplos se encuentran detro del archivo del analizador.
 
 Como se muestra en la imagen es necesario tener en la carpeta del analizador:
 -antlr-4.13.2-complete.jar
