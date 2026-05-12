@@ -1,0 +1,3 @@
+var mensaje = 'Hola Mundo';
+imprimir(mensaje);
+imprimir(otraVariable); // error

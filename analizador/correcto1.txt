@@ -1,0 +1,3 @@
+var edad = 25;
+var nombre = "Nicole";
+var cadena = nombre + edad;

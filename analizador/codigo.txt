@@ -1,0 +1,3 @@
+var saludo = "Hola mundo";
+var resultado = mayusculas(saludo);
+imprimir resultado;
